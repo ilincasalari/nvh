@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(179, 252, 215);
+}
+h1{
+    color: rgb(11, 48, 2);
+}
+p{
+    color: rgb(11, 48, 2);
+}
+div{
+    color: rgb(11, 48, 2);
+    text-decoration-line: underline;
+}
+span{
+    color: black; background-color: rgb(252, 208, 15);
+}
